@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2019287170237772426  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 5e8e2d0a649a427cbe0b25a4fb3a324e --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot motor_bt_behav xil_defaultlib.motor_bt" , 
+    buildDate : "Jun 10 2021" , 
+    buildTime : "19:45:28" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/motor_bt_behav/xsimk\"   \"xsim.dir/motor_bt_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/motor_bt_behav/obj/xsim_1.lnx64.o\" -L\"/tools/Vivado/2021.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

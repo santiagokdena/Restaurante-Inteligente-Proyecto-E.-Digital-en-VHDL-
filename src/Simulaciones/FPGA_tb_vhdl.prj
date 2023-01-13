@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/Baudrate.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/uart_rx.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/fifo.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/fifo_tx.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/uart_tx.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/uart.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/debounce_circuit.vhd" \
+"../../../../../../LCD y Bluetooth/LCD y Bluetooth.srcs/sources_1/imports/new/Bloque_grande.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/buzzer.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/driver.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/logic.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/Teclado_M.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/pwm.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/FPGA.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/RAM.vhd" \
+"../../../../PROYECTO.srcs/sources_1/new/divisor.vhd" \
+"../../../../PROYECTO.srcs/sim_1/new/FPGA_tb.vhd" \
+
+# Do not sort compile order
+nosort

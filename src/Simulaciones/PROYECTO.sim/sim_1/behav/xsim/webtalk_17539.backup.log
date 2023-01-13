@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Feb  1 13:11:10 2022
+# Process ID: 17539
+# Current directory: /home/santiago/DIGITAL 1/PROYECTO/PROYECTO/PROYECTO.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/santiago/DIGITAL 1/PROYECTO/PROYECTO/PROYECTO.sim/sim_1/behav/xsim/xsim.dir/FPGA_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/santiago/DIGITAL 1/PROYECTO/PROYECTO/PROYECTO.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/santiago/DIGITAL 1/PROYECTO/PROYECTO/PROYECTO.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/santiago/DIGITAL -notrace
+couldn't read file "/home/santiago/DIGITAL": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Tue Feb  1 13:11:10 2022...

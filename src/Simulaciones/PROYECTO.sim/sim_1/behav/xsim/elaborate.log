@@ -1,0 +1,33 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Vivado/2021.1/bin/unwrapped/lnx64.o/xelab -wto 5e8e2d0a649a427cbe0b25a4fb3a324e --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot FPGA_tb_behav xil_defaultlib.FPGA_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.buzzer [buzzer_default]
+Compiling architecture controller of entity xil_defaultlib.driver [driver_default]
+Compiling architecture behavorial of entity xil_defaultlib.ram [ram_default]
+Compiling architecture behavioral of entity xil_defaultlib.divisor [divisor_default]
+Compiling architecture behavior of entity xil_defaultlib.logic [logic_default]
+Compiling architecture behavioral of entity xil_defaultlib.TECLADO_M [teclado_m_default]
+Compiling architecture arch of entity xil_defaultlib.baudrate [baudrate_default]
+Compiling architecture arch of entity xil_defaultlib.uart_rx [uart_rx_default]
+Compiling architecture arch of entity xil_defaultlib.fifo [fifo_default]
+Compiling architecture arch of entity xil_defaultlib.fifo_tx [fifo_tx_default]
+Compiling architecture arch of entity xil_defaultlib.uart_tx [uart_tx_default]
+Compiling architecture str_arch of entity xil_defaultlib.uart [uart_default]
+Compiling architecture behavioral of entity xil_defaultlib.debounce_circuit [debounce_circuit_default]
+Compiling architecture behavioral of entity xil_defaultlib.bluetooth_controller [bluetooth_controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.pwm [pwm_default]
+Compiling architecture behavioral of entity xil_defaultlib.FPGA [fpga_default]
+Compiling architecture behavioral of entity xil_defaultlib.fpga_tb
+Built simulation snapshot FPGA_tb_behav

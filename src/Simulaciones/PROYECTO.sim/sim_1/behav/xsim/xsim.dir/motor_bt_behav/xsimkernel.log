@@ -1,0 +1,7 @@
+Running: xsim.dir/motor_bt_behav/xsimk -simmode gui -wdb motor_bt_behav.wdb -simrunnum 0 -socket 54223
+Design successfully loaded
+Design Loading Memory Usage: 34956 KB (Peak: 34956 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 116692 KB (Peak: 174224 KB)
+Simulation CPU Usage: 40 ms
